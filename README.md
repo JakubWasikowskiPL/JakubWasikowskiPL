@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakubWasikowskiPL
 - 👀 I’m interested in Java programming
-- 🌱 I’m currently learning  Java 11
+- 🌱 I’m currently learning  Java 17
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me https://www.linkedin.com/in/jakub-wasikowski/
 
